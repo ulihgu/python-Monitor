@@ -1,0 +1,14 @@
+1,安装vscode 按下 Ctrl + Shift + X 打开插件管理侧边栏 依次安装下列插件
+   1.1 Git history
+   1.2 Python
+   1.3 Django Template
+   1.4 jquery Code Snippets
+   1.5 Bootstrap 3 Snippets
+2,安装virtualenv
+   \\python下无PIP
+   2.1 python -m ensurepip
+   2.2 python3.5 -m pip install readline
+   2.3 python -m pip install --upgrade pip
+
+   2.4 pip install virtualenv
+3,
